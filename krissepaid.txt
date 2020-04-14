@@ -1,0 +1,5 @@
+7.4.2020 20 Jukka
+7.4.2020 900,0 mokki Jukka
+7.4.2020 200,0 sahkolasku Jukka
+14.4.2020 10,0 polttoaine Jukka
+14.4.2020 900,00 mokkivuokra Jukka
